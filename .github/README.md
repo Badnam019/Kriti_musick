@@ -42,7 +42,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/WCGKING/BrandrdXMusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/Badnam019/Kriti_musick/sample.env)
 ---
 
 ### 🔧 Quick Setup
